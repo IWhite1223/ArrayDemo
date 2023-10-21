@@ -1,0 +1,15 @@
+C:\Users\12488\source\repos\VB9e\Chap01\FavoriteSong\FavoriteSong\bin\Debug\net6.0\FavoriteSong.exe
+C:\Users\12488\source\repos\VB9e\Chap01\FavoriteSong\FavoriteSong\bin\Debug\net6.0\FavoriteSong.deps.json
+C:\Users\12488\source\repos\VB9e\Chap01\FavoriteSong\FavoriteSong\bin\Debug\net6.0\FavoriteSong.runtimeconfig.json
+C:\Users\12488\source\repos\VB9e\Chap01\FavoriteSong\FavoriteSong\bin\Debug\net6.0\FavoriteSong.dll
+C:\Users\12488\source\repos\VB9e\Chap01\FavoriteSong\FavoriteSong\bin\Debug\net6.0\FavoriteSong.pdb
+C:\Users\12488\source\repos\VB9e\Chap01\FavoriteSong\FavoriteSong\obj\Debug\net6.0\FavoriteSong.csproj.AssemblyReference.cache
+C:\Users\12488\source\repos\VB9e\Chap01\FavoriteSong\FavoriteSong\obj\Debug\net6.0\FavoriteSong.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\12488\source\repos\VB9e\Chap01\FavoriteSong\FavoriteSong\obj\Debug\net6.0\FavoriteSong.AssemblyInfoInputs.cache
+C:\Users\12488\source\repos\VB9e\Chap01\FavoriteSong\FavoriteSong\obj\Debug\net6.0\FavoriteSong.AssemblyInfo.cs
+C:\Users\12488\source\repos\VB9e\Chap01\FavoriteSong\FavoriteSong\obj\Debug\net6.0\FavoriteSong.csproj.CoreCompileInputs.cache
+C:\Users\12488\source\repos\VB9e\Chap01\FavoriteSong\FavoriteSong\obj\Debug\net6.0\FavoriteSong.dll
+C:\Users\12488\source\repos\VB9e\Chap01\FavoriteSong\FavoriteSong\obj\Debug\net6.0\refint\FavoriteSong.dll
+C:\Users\12488\source\repos\VB9e\Chap01\FavoriteSong\FavoriteSong\obj\Debug\net6.0\FavoriteSong.pdb
+C:\Users\12488\source\repos\VB9e\Chap01\FavoriteSong\FavoriteSong\obj\Debug\net6.0\FavoriteSong.genruntimeconfig.cache
+C:\Users\12488\source\repos\VB9e\Chap01\FavoriteSong\FavoriteSong\obj\Debug\net6.0\ref\FavoriteSong.dll

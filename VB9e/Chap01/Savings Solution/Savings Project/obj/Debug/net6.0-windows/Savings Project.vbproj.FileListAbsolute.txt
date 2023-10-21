@@ -1,0 +1,17 @@
+C:\Users\12488\source\repos\VB9e\Chap01\Savings Solution\Savings Project\obj\Debug\net6.0-windows\Savings Project.vbproj.AssemblyReference.cache
+C:\Users\12488\source\repos\VB9e\Chap01\Savings Solution\Savings Project\obj\Debug\net6.0-windows\Savings Project.vbproj.GenerateResource.cache
+C:\Users\12488\source\repos\VB9e\Chap01\Savings Solution\Savings Project\obj\Debug\net6.0-windows\Savings Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\12488\source\repos\VB9e\Chap01\Savings Solution\Savings Project\obj\Debug\net6.0-windows\Savings Project.AssemblyInfoInputs.cache
+C:\Users\12488\source\repos\VB9e\Chap01\Savings Solution\Savings Project\obj\Debug\net6.0-windows\Savings Project.AssemblyInfo.vb
+C:\Users\12488\source\repos\VB9e\Chap01\Savings Solution\Savings Project\obj\Debug\net6.0-windows\Savings Project.vbproj.CoreCompileInputs.cache
+C:\Users\12488\source\repos\VB9e\Chap01\Savings Solution\Savings Project\bin\Debug\net6.0-windows\Savings Project.exe
+C:\Users\12488\source\repos\VB9e\Chap01\Savings Solution\Savings Project\bin\Debug\net6.0-windows\Savings Project.deps.json
+C:\Users\12488\source\repos\VB9e\Chap01\Savings Solution\Savings Project\bin\Debug\net6.0-windows\Savings Project.runtimeconfig.json
+C:\Users\12488\source\repos\VB9e\Chap01\Savings Solution\Savings Project\bin\Debug\net6.0-windows\Savings Project.dll
+C:\Users\12488\source\repos\VB9e\Chap01\Savings Solution\Savings Project\bin\Debug\net6.0-windows\Savings Project.pdb
+C:\Users\12488\source\repos\VB9e\Chap01\Savings Solution\Savings Project\obj\Debug\net6.0-windows\Savings Project.dll
+C:\Users\12488\source\repos\VB9e\Chap01\Savings Solution\Savings Project\obj\Debug\net6.0-windows\refint\Savings Project.dll
+C:\Users\12488\source\repos\VB9e\Chap01\Savings Solution\Savings Project\obj\Debug\net6.0-windows\Savings Project.pdb
+C:\Users\12488\source\repos\VB9e\Chap01\Savings Solution\Savings Project\obj\Debug\net6.0-windows\Savings Project.genruntimeconfig.cache
+C:\Users\12488\source\repos\VB9e\Chap01\Savings Solution\Savings Project\obj\Debug\net6.0-windows\ref\Savings Project.dll
+C:\Users\12488\source\repos\VB9e\Chap01\Savings Solution\Savings Project\obj\Debug\net6.0-windows\Savings_Project.Form1.resources

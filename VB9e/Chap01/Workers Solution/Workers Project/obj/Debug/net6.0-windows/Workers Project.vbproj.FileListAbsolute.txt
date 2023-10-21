@@ -1,0 +1,17 @@
+C:\Users\12488\source\repos\VB9e\Chap01\Workers Solution\Workers Project\bin\Debug\net6.0-windows\Workers Project.exe
+C:\Users\12488\source\repos\VB9e\Chap01\Workers Solution\Workers Project\bin\Debug\net6.0-windows\Workers Project.deps.json
+C:\Users\12488\source\repos\VB9e\Chap01\Workers Solution\Workers Project\bin\Debug\net6.0-windows\Workers Project.runtimeconfig.json
+C:\Users\12488\source\repos\VB9e\Chap01\Workers Solution\Workers Project\bin\Debug\net6.0-windows\Workers Project.dll
+C:\Users\12488\source\repos\VB9e\Chap01\Workers Solution\Workers Project\bin\Debug\net6.0-windows\Workers Project.pdb
+C:\Users\12488\source\repos\VB9e\Chap01\Workers Solution\Workers Project\obj\Debug\net6.0-windows\Workers Project.vbproj.AssemblyReference.cache
+C:\Users\12488\source\repos\VB9e\Chap01\Workers Solution\Workers Project\obj\Debug\net6.0-windows\Workers_Project.Form1.resources
+C:\Users\12488\source\repos\VB9e\Chap01\Workers Solution\Workers Project\obj\Debug\net6.0-windows\Workers Project.vbproj.GenerateResource.cache
+C:\Users\12488\source\repos\VB9e\Chap01\Workers Solution\Workers Project\obj\Debug\net6.0-windows\Workers Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\12488\source\repos\VB9e\Chap01\Workers Solution\Workers Project\obj\Debug\net6.0-windows\Workers Project.AssemblyInfoInputs.cache
+C:\Users\12488\source\repos\VB9e\Chap01\Workers Solution\Workers Project\obj\Debug\net6.0-windows\Workers Project.AssemblyInfo.vb
+C:\Users\12488\source\repos\VB9e\Chap01\Workers Solution\Workers Project\obj\Debug\net6.0-windows\Workers Project.vbproj.CoreCompileInputs.cache
+C:\Users\12488\source\repos\VB9e\Chap01\Workers Solution\Workers Project\obj\Debug\net6.0-windows\Workers Project.dll
+C:\Users\12488\source\repos\VB9e\Chap01\Workers Solution\Workers Project\obj\Debug\net6.0-windows\refint\Workers Project.dll
+C:\Users\12488\source\repos\VB9e\Chap01\Workers Solution\Workers Project\obj\Debug\net6.0-windows\Workers Project.pdb
+C:\Users\12488\source\repos\VB9e\Chap01\Workers Solution\Workers Project\obj\Debug\net6.0-windows\Workers Project.genruntimeconfig.cache
+C:\Users\12488\source\repos\VB9e\Chap01\Workers Solution\Workers Project\obj\Debug\net6.0-windows\ref\Workers Project.dll

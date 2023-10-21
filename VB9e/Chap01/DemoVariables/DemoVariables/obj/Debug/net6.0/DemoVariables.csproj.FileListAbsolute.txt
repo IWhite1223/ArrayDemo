@@ -1,0 +1,15 @@
+C:\Users\12488\source\repos\VB9e\Chap01\DemoVariables\DemoVariables\bin\Debug\net6.0\DemoVariables.exe
+C:\Users\12488\source\repos\VB9e\Chap01\DemoVariables\DemoVariables\bin\Debug\net6.0\DemoVariables.deps.json
+C:\Users\12488\source\repos\VB9e\Chap01\DemoVariables\DemoVariables\bin\Debug\net6.0\DemoVariables.runtimeconfig.json
+C:\Users\12488\source\repos\VB9e\Chap01\DemoVariables\DemoVariables\bin\Debug\net6.0\DemoVariables.dll
+C:\Users\12488\source\repos\VB9e\Chap01\DemoVariables\DemoVariables\bin\Debug\net6.0\DemoVariables.pdb
+C:\Users\12488\source\repos\VB9e\Chap01\DemoVariables\DemoVariables\obj\Debug\net6.0\DemoVariables.csproj.AssemblyReference.cache
+C:\Users\12488\source\repos\VB9e\Chap01\DemoVariables\DemoVariables\obj\Debug\net6.0\DemoVariables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\12488\source\repos\VB9e\Chap01\DemoVariables\DemoVariables\obj\Debug\net6.0\DemoVariables.AssemblyInfoInputs.cache
+C:\Users\12488\source\repos\VB9e\Chap01\DemoVariables\DemoVariables\obj\Debug\net6.0\DemoVariables.AssemblyInfo.cs
+C:\Users\12488\source\repos\VB9e\Chap01\DemoVariables\DemoVariables\obj\Debug\net6.0\DemoVariables.csproj.CoreCompileInputs.cache
+C:\Users\12488\source\repos\VB9e\Chap01\DemoVariables\DemoVariables\obj\Debug\net6.0\DemoVariables.dll
+C:\Users\12488\source\repos\VB9e\Chap01\DemoVariables\DemoVariables\obj\Debug\net6.0\refint\DemoVariables.dll
+C:\Users\12488\source\repos\VB9e\Chap01\DemoVariables\DemoVariables\obj\Debug\net6.0\DemoVariables.pdb
+C:\Users\12488\source\repos\VB9e\Chap01\DemoVariables\DemoVariables\obj\Debug\net6.0\DemoVariables.genruntimeconfig.cache
+C:\Users\12488\source\repos\VB9e\Chap01\DemoVariables\DemoVariables\obj\Debug\net6.0\ref\DemoVariables.dll

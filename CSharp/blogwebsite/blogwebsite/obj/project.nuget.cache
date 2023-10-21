@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "3uD64J19AHthci1S7yk5wRtxwft0ogo3GFOhJTt5bZw/JRsCrRYh3y2LSWnjGhZadpC4K9G3JO2WiOt2ZFgQIg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\12488\\source\\repos\\CSharp\\blogwebsite\\blogwebsite\\WomenInTech.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\12488\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.11.1\\microsoft.visualstudio.azure.containers.tools.targets.1.11.1.nupkg.sha512"
+  ],
+  "logs": []
+}

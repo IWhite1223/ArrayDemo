@@ -1,0 +1,17 @@
+C:\Users\12488\source\repos\VB9e\Chap01\Donut Solution\Donut Project\bin\Debug\net6.0-windows\Donut Project.exe
+C:\Users\12488\source\repos\VB9e\Chap01\Donut Solution\Donut Project\bin\Debug\net6.0-windows\Donut Project.deps.json
+C:\Users\12488\source\repos\VB9e\Chap01\Donut Solution\Donut Project\bin\Debug\net6.0-windows\Donut Project.runtimeconfig.json
+C:\Users\12488\source\repos\VB9e\Chap01\Donut Solution\Donut Project\bin\Debug\net6.0-windows\Donut Project.dll
+C:\Users\12488\source\repos\VB9e\Chap01\Donut Solution\Donut Project\bin\Debug\net6.0-windows\Donut Project.pdb
+C:\Users\12488\source\repos\VB9e\Chap01\Donut Solution\Donut Project\obj\Debug\net6.0-windows\Donut Project.vbproj.AssemblyReference.cache
+C:\Users\12488\source\repos\VB9e\Chap01\Donut Solution\Donut Project\obj\Debug\net6.0-windows\Donut_Project.Form1.resources
+C:\Users\12488\source\repos\VB9e\Chap01\Donut Solution\Donut Project\obj\Debug\net6.0-windows\Donut Project.vbproj.GenerateResource.cache
+C:\Users\12488\source\repos\VB9e\Chap01\Donut Solution\Donut Project\obj\Debug\net6.0-windows\Donut Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\12488\source\repos\VB9e\Chap01\Donut Solution\Donut Project\obj\Debug\net6.0-windows\Donut Project.AssemblyInfoInputs.cache
+C:\Users\12488\source\repos\VB9e\Chap01\Donut Solution\Donut Project\obj\Debug\net6.0-windows\Donut Project.AssemblyInfo.vb
+C:\Users\12488\source\repos\VB9e\Chap01\Donut Solution\Donut Project\obj\Debug\net6.0-windows\Donut Project.vbproj.CoreCompileInputs.cache
+C:\Users\12488\source\repos\VB9e\Chap01\Donut Solution\Donut Project\obj\Debug\net6.0-windows\Donut Project.dll
+C:\Users\12488\source\repos\VB9e\Chap01\Donut Solution\Donut Project\obj\Debug\net6.0-windows\refint\Donut Project.dll
+C:\Users\12488\source\repos\VB9e\Chap01\Donut Solution\Donut Project\obj\Debug\net6.0-windows\Donut Project.pdb
+C:\Users\12488\source\repos\VB9e\Chap01\Donut Solution\Donut Project\obj\Debug\net6.0-windows\Donut Project.genruntimeconfig.cache
+C:\Users\12488\source\repos\VB9e\Chap01\Donut Solution\Donut Project\obj\Debug\net6.0-windows\ref\Donut Project.dll

@@ -1,0 +1,15 @@
+C:\Users\12488\source\repos\VB9e\Chap01\PersonalInfo\PersonalInfo\bin\Debug\net6.0\PersonalInfo.exe
+C:\Users\12488\source\repos\VB9e\Chap01\PersonalInfo\PersonalInfo\bin\Debug\net6.0\PersonalInfo.deps.json
+C:\Users\12488\source\repos\VB9e\Chap01\PersonalInfo\PersonalInfo\bin\Debug\net6.0\PersonalInfo.runtimeconfig.json
+C:\Users\12488\source\repos\VB9e\Chap01\PersonalInfo\PersonalInfo\bin\Debug\net6.0\PersonalInfo.dll
+C:\Users\12488\source\repos\VB9e\Chap01\PersonalInfo\PersonalInfo\bin\Debug\net6.0\PersonalInfo.pdb
+C:\Users\12488\source\repos\VB9e\Chap01\PersonalInfo\PersonalInfo\obj\Debug\net6.0\PersonalInfo.csproj.AssemblyReference.cache
+C:\Users\12488\source\repos\VB9e\Chap01\PersonalInfo\PersonalInfo\obj\Debug\net6.0\PersonalInfo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\12488\source\repos\VB9e\Chap01\PersonalInfo\PersonalInfo\obj\Debug\net6.0\PersonalInfo.AssemblyInfoInputs.cache
+C:\Users\12488\source\repos\VB9e\Chap01\PersonalInfo\PersonalInfo\obj\Debug\net6.0\PersonalInfo.AssemblyInfo.cs
+C:\Users\12488\source\repos\VB9e\Chap01\PersonalInfo\PersonalInfo\obj\Debug\net6.0\PersonalInfo.csproj.CoreCompileInputs.cache
+C:\Users\12488\source\repos\VB9e\Chap01\PersonalInfo\PersonalInfo\obj\Debug\net6.0\PersonalInfo.dll
+C:\Users\12488\source\repos\VB9e\Chap01\PersonalInfo\PersonalInfo\obj\Debug\net6.0\refint\PersonalInfo.dll
+C:\Users\12488\source\repos\VB9e\Chap01\PersonalInfo\PersonalInfo\obj\Debug\net6.0\PersonalInfo.pdb
+C:\Users\12488\source\repos\VB9e\Chap01\PersonalInfo\PersonalInfo\obj\Debug\net6.0\PersonalInfo.genruntimeconfig.cache
+C:\Users\12488\source\repos\VB9e\Chap01\PersonalInfo\PersonalInfo\obj\Debug\net6.0\ref\PersonalInfo.dll

@@ -1,0 +1,17 @@
+C:\Users\12488\source\repos\VB9e\Chap02\Tax Solution\Tax Project\obj\Debug\net6.0-windows\Tax Project.vbproj.AssemblyReference.cache
+C:\Users\12488\source\repos\VB9e\Chap02\Tax Solution\Tax Project\obj\Debug\net6.0-windows\Tax_Project.Form1.resources
+C:\Users\12488\source\repos\VB9e\Chap02\Tax Solution\Tax Project\obj\Debug\net6.0-windows\Tax Project.vbproj.GenerateResource.cache
+C:\Users\12488\source\repos\VB9e\Chap02\Tax Solution\Tax Project\obj\Debug\net6.0-windows\Tax Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\12488\source\repos\VB9e\Chap02\Tax Solution\Tax Project\obj\Debug\net6.0-windows\Tax Project.AssemblyInfoInputs.cache
+C:\Users\12488\source\repos\VB9e\Chap02\Tax Solution\Tax Project\obj\Debug\net6.0-windows\Tax Project.AssemblyInfo.vb
+C:\Users\12488\source\repos\VB9e\Chap02\Tax Solution\Tax Project\obj\Debug\net6.0-windows\Tax Project.vbproj.CoreCompileInputs.cache
+C:\Users\12488\source\repos\VB9e\Chap02\Tax Solution\Tax Project\bin\Debug\net6.0-windows\Tax Project.exe
+C:\Users\12488\source\repos\VB9e\Chap02\Tax Solution\Tax Project\bin\Debug\net6.0-windows\Tax Project.deps.json
+C:\Users\12488\source\repos\VB9e\Chap02\Tax Solution\Tax Project\bin\Debug\net6.0-windows\Tax Project.runtimeconfig.json
+C:\Users\12488\source\repos\VB9e\Chap02\Tax Solution\Tax Project\bin\Debug\net6.0-windows\Tax Project.dll
+C:\Users\12488\source\repos\VB9e\Chap02\Tax Solution\Tax Project\bin\Debug\net6.0-windows\Tax Project.pdb
+C:\Users\12488\source\repos\VB9e\Chap02\Tax Solution\Tax Project\obj\Debug\net6.0-windows\Tax Project.dll
+C:\Users\12488\source\repos\VB9e\Chap02\Tax Solution\Tax Project\obj\Debug\net6.0-windows\refint\Tax Project.dll
+C:\Users\12488\source\repos\VB9e\Chap02\Tax Solution\Tax Project\obj\Debug\net6.0-windows\Tax Project.pdb
+C:\Users\12488\source\repos\VB9e\Chap02\Tax Solution\Tax Project\obj\Debug\net6.0-windows\Tax Project.genruntimeconfig.cache
+C:\Users\12488\source\repos\VB9e\Chap02\Tax Solution\Tax Project\obj\Debug\net6.0-windows\ref\Tax Project.dll

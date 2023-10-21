@@ -85,11 +85,11 @@ namespace Deliverable_1
                 Console.WriteLine("\t\t\t\t\t\t\t\t\t\t\t\t\t");
                 Console.WriteLine("\t\t\t\t\t\t\t\t\t\t\t\t\t");
 
-                int totalLoavesNeeded;
-                int totalSlicesNeeded;
-                int slicesPerLoaf;
-                int jellyPerSandwich;
-                int peanutbutterPerSandwich;
+                double totalLoavesNeeded;
+                double totalSlicesNeeded;
+                double slicesPerLoaf;
+                double jellyPerSandwich;
+                double peanutbutterPerSandwich;
 
                 slicesPerLoaf = 28;
                 totalSlicesNeeded = Bread;

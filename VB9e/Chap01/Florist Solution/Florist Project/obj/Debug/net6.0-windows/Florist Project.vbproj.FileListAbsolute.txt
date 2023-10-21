@@ -1,0 +1,18 @@
+C:\Users\12488\source\repos\VB9e\Chap01\Florist Solution\Florist Project\bin\Debug\net6.0-windows\Florist Project.exe
+C:\Users\12488\source\repos\VB9e\Chap01\Florist Solution\Florist Project\bin\Debug\net6.0-windows\Florist Project.deps.json
+C:\Users\12488\source\repos\VB9e\Chap01\Florist Solution\Florist Project\bin\Debug\net6.0-windows\Florist Project.runtimeconfig.json
+C:\Users\12488\source\repos\VB9e\Chap01\Florist Solution\Florist Project\bin\Debug\net6.0-windows\Florist Project.dll
+C:\Users\12488\source\repos\VB9e\Chap01\Florist Solution\Florist Project\bin\Debug\net6.0-windows\Florist Project.pdb
+C:\Users\12488\source\repos\VB9e\Chap01\Florist Solution\Florist Project\obj\Debug\net6.0-windows\Florist Project.vbproj.AssemblyReference.cache
+C:\Users\12488\source\repos\VB9e\Chap01\Florist Solution\Florist Project\obj\Debug\net6.0-windows\Florist_Project.Form1.resources
+C:\Users\12488\source\repos\VB9e\Chap01\Florist Solution\Florist Project\obj\Debug\net6.0-windows\Florist_Project.Resources.resources
+C:\Users\12488\source\repos\VB9e\Chap01\Florist Solution\Florist Project\obj\Debug\net6.0-windows\Florist Project.vbproj.GenerateResource.cache
+C:\Users\12488\source\repos\VB9e\Chap01\Florist Solution\Florist Project\obj\Debug\net6.0-windows\Florist Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\12488\source\repos\VB9e\Chap01\Florist Solution\Florist Project\obj\Debug\net6.0-windows\Florist Project.AssemblyInfoInputs.cache
+C:\Users\12488\source\repos\VB9e\Chap01\Florist Solution\Florist Project\obj\Debug\net6.0-windows\Florist Project.AssemblyInfo.vb
+C:\Users\12488\source\repos\VB9e\Chap01\Florist Solution\Florist Project\obj\Debug\net6.0-windows\Florist Project.vbproj.CoreCompileInputs.cache
+C:\Users\12488\source\repos\VB9e\Chap01\Florist Solution\Florist Project\obj\Debug\net6.0-windows\Florist Project.dll
+C:\Users\12488\source\repos\VB9e\Chap01\Florist Solution\Florist Project\obj\Debug\net6.0-windows\refint\Florist Project.dll
+C:\Users\12488\source\repos\VB9e\Chap01\Florist Solution\Florist Project\obj\Debug\net6.0-windows\Florist Project.pdb
+C:\Users\12488\source\repos\VB9e\Chap01\Florist Solution\Florist Project\obj\Debug\net6.0-windows\Florist Project.genruntimeconfig.cache
+C:\Users\12488\source\repos\VB9e\Chap01\Florist Solution\Florist Project\obj\Debug\net6.0-windows\ref\Florist Project.dll

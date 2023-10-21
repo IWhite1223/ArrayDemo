@@ -1,0 +1,17 @@
+C:\Users\12488\source\repos\VB9e\Chap01\BaxtersSolution\BaxtersProject\obj\Debug\net6.0-windows\BaxtersProject.vbproj.AssemblyReference.cache
+C:\Users\12488\source\repos\VB9e\Chap01\BaxtersSolution\BaxtersProject\obj\Debug\net6.0-windows\BaxtersProject.vbproj.GenerateResource.cache
+C:\Users\12488\source\repos\VB9e\Chap01\BaxtersSolution\BaxtersProject\obj\Debug\net6.0-windows\BaxtersProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\12488\source\repos\VB9e\Chap01\BaxtersSolution\BaxtersProject\obj\Debug\net6.0-windows\BaxtersProject.AssemblyInfoInputs.cache
+C:\Users\12488\source\repos\VB9e\Chap01\BaxtersSolution\BaxtersProject\obj\Debug\net6.0-windows\BaxtersProject.AssemblyInfo.vb
+C:\Users\12488\source\repos\VB9e\Chap01\BaxtersSolution\BaxtersProject\obj\Debug\net6.0-windows\BaxtersProject.vbproj.CoreCompileInputs.cache
+C:\Users\12488\source\repos\VB9e\Chap01\BaxtersSolution\BaxtersProject\bin\Debug\net6.0-windows\BaxtersProject.exe
+C:\Users\12488\source\repos\VB9e\Chap01\BaxtersSolution\BaxtersProject\bin\Debug\net6.0-windows\BaxtersProject.deps.json
+C:\Users\12488\source\repos\VB9e\Chap01\BaxtersSolution\BaxtersProject\bin\Debug\net6.0-windows\BaxtersProject.runtimeconfig.json
+C:\Users\12488\source\repos\VB9e\Chap01\BaxtersSolution\BaxtersProject\bin\Debug\net6.0-windows\BaxtersProject.dll
+C:\Users\12488\source\repos\VB9e\Chap01\BaxtersSolution\BaxtersProject\bin\Debug\net6.0-windows\BaxtersProject.pdb
+C:\Users\12488\source\repos\VB9e\Chap01\BaxtersSolution\BaxtersProject\obj\Debug\net6.0-windows\BaxtersProject.Form1.resources
+C:\Users\12488\source\repos\VB9e\Chap01\BaxtersSolution\BaxtersProject\obj\Debug\net6.0-windows\BaxtersProject.dll
+C:\Users\12488\source\repos\VB9e\Chap01\BaxtersSolution\BaxtersProject\obj\Debug\net6.0-windows\refint\BaxtersProject.dll
+C:\Users\12488\source\repos\VB9e\Chap01\BaxtersSolution\BaxtersProject\obj\Debug\net6.0-windows\BaxtersProject.pdb
+C:\Users\12488\source\repos\VB9e\Chap01\BaxtersSolution\BaxtersProject\obj\Debug\net6.0-windows\BaxtersProject.genruntimeconfig.cache
+C:\Users\12488\source\repos\VB9e\Chap01\BaxtersSolution\BaxtersProject\obj\Debug\net6.0-windows\ref\BaxtersProject.dll

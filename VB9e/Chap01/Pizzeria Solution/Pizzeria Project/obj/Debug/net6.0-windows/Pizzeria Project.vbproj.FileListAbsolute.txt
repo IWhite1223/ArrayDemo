@@ -1,0 +1,18 @@
+C:\Users\12488\source\repos\VB9e\Chap01\Pizzeria Solution\Pizzeria Project\bin\Debug\net6.0-windows\Pizzeria Project.exe
+C:\Users\12488\source\repos\VB9e\Chap01\Pizzeria Solution\Pizzeria Project\bin\Debug\net6.0-windows\Pizzeria Project.deps.json
+C:\Users\12488\source\repos\VB9e\Chap01\Pizzeria Solution\Pizzeria Project\bin\Debug\net6.0-windows\Pizzeria Project.runtimeconfig.json
+C:\Users\12488\source\repos\VB9e\Chap01\Pizzeria Solution\Pizzeria Project\bin\Debug\net6.0-windows\Pizzeria Project.dll
+C:\Users\12488\source\repos\VB9e\Chap01\Pizzeria Solution\Pizzeria Project\bin\Debug\net6.0-windows\Pizzeria Project.pdb
+C:\Users\12488\source\repos\VB9e\Chap01\Pizzeria Solution\Pizzeria Project\obj\Debug\net6.0-windows\Pizzeria Project.vbproj.AssemblyReference.cache
+C:\Users\12488\source\repos\VB9e\Chap01\Pizzeria Solution\Pizzeria Project\obj\Debug\net6.0-windows\Pizzeria_Project.Form1.resources
+C:\Users\12488\source\repos\VB9e\Chap01\Pizzeria Solution\Pizzeria Project\obj\Debug\net6.0-windows\Pizzeria_Project.Resources.resources
+C:\Users\12488\source\repos\VB9e\Chap01\Pizzeria Solution\Pizzeria Project\obj\Debug\net6.0-windows\Pizzeria Project.vbproj.GenerateResource.cache
+C:\Users\12488\source\repos\VB9e\Chap01\Pizzeria Solution\Pizzeria Project\obj\Debug\net6.0-windows\Pizzeria Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\12488\source\repos\VB9e\Chap01\Pizzeria Solution\Pizzeria Project\obj\Debug\net6.0-windows\Pizzeria Project.AssemblyInfoInputs.cache
+C:\Users\12488\source\repos\VB9e\Chap01\Pizzeria Solution\Pizzeria Project\obj\Debug\net6.0-windows\Pizzeria Project.AssemblyInfo.vb
+C:\Users\12488\source\repos\VB9e\Chap01\Pizzeria Solution\Pizzeria Project\obj\Debug\net6.0-windows\Pizzeria Project.vbproj.CoreCompileInputs.cache
+C:\Users\12488\source\repos\VB9e\Chap01\Pizzeria Solution\Pizzeria Project\obj\Debug\net6.0-windows\Pizzeria Project.dll
+C:\Users\12488\source\repos\VB9e\Chap01\Pizzeria Solution\Pizzeria Project\obj\Debug\net6.0-windows\refint\Pizzeria Project.dll
+C:\Users\12488\source\repos\VB9e\Chap01\Pizzeria Solution\Pizzeria Project\obj\Debug\net6.0-windows\Pizzeria Project.pdb
+C:\Users\12488\source\repos\VB9e\Chap01\Pizzeria Solution\Pizzeria Project\obj\Debug\net6.0-windows\Pizzeria Project.genruntimeconfig.cache
+C:\Users\12488\source\repos\VB9e\Chap01\Pizzeria Solution\Pizzeria Project\obj\Debug\net6.0-windows\ref\Pizzeria Project.dll

@@ -1,0 +1,8 @@
+C:\Users\12488\source\repos\VB9e\Chap01\ArrayDemo1\ArrayDemo1\bin\Debug\ArrayDemo1.exe.config
+C:\Users\12488\source\repos\VB9e\Chap01\ArrayDemo1\ArrayDemo1\bin\Debug\ArrayDemo1.exe
+C:\Users\12488\source\repos\VB9e\Chap01\ArrayDemo1\ArrayDemo1\bin\Debug\ArrayDemo1.pdb
+C:\Users\12488\source\repos\VB9e\Chap01\ArrayDemo1\ArrayDemo1\obj\Debug\ArrayDemo1.csproj.AssemblyReference.cache
+C:\Users\12488\source\repos\VB9e\Chap01\ArrayDemo1\ArrayDemo1\obj\Debug\ArrayDemo1.csproj.SuggestedBindingRedirects.cache
+C:\Users\12488\source\repos\VB9e\Chap01\ArrayDemo1\ArrayDemo1\obj\Debug\ArrayDemo1.csproj.CoreCompileInputs.cache
+C:\Users\12488\source\repos\VB9e\Chap01\ArrayDemo1\ArrayDemo1\obj\Debug\ArrayDemo1.exe
+C:\Users\12488\source\repos\VB9e\Chap01\ArrayDemo1\ArrayDemo1\obj\Debug\ArrayDemo1.pdb

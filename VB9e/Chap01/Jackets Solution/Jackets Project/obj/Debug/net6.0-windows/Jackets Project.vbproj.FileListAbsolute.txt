@@ -1,0 +1,18 @@
+C:\Users\12488\source\repos\VB9e\Chap01\Jackets Solution\Jackets Project\bin\Debug\net6.0-windows\Jackets Project.exe
+C:\Users\12488\source\repos\VB9e\Chap01\Jackets Solution\Jackets Project\bin\Debug\net6.0-windows\Jackets Project.deps.json
+C:\Users\12488\source\repos\VB9e\Chap01\Jackets Solution\Jackets Project\bin\Debug\net6.0-windows\Jackets Project.runtimeconfig.json
+C:\Users\12488\source\repos\VB9e\Chap01\Jackets Solution\Jackets Project\bin\Debug\net6.0-windows\Jackets Project.dll
+C:\Users\12488\source\repos\VB9e\Chap01\Jackets Solution\Jackets Project\bin\Debug\net6.0-windows\Jackets Project.pdb
+C:\Users\12488\source\repos\VB9e\Chap01\Jackets Solution\Jackets Project\obj\Debug\net6.0-windows\Jackets Project.vbproj.AssemblyReference.cache
+C:\Users\12488\source\repos\VB9e\Chap01\Jackets Solution\Jackets Project\obj\Debug\net6.0-windows\Jackets_Project.Form1.resources
+C:\Users\12488\source\repos\VB9e\Chap01\Jackets Solution\Jackets Project\obj\Debug\net6.0-windows\Jackets_Project.Resources.resources
+C:\Users\12488\source\repos\VB9e\Chap01\Jackets Solution\Jackets Project\obj\Debug\net6.0-windows\Jackets Project.vbproj.GenerateResource.cache
+C:\Users\12488\source\repos\VB9e\Chap01\Jackets Solution\Jackets Project\obj\Debug\net6.0-windows\Jackets Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\12488\source\repos\VB9e\Chap01\Jackets Solution\Jackets Project\obj\Debug\net6.0-windows\Jackets Project.AssemblyInfoInputs.cache
+C:\Users\12488\source\repos\VB9e\Chap01\Jackets Solution\Jackets Project\obj\Debug\net6.0-windows\Jackets Project.AssemblyInfo.vb
+C:\Users\12488\source\repos\VB9e\Chap01\Jackets Solution\Jackets Project\obj\Debug\net6.0-windows\Jackets Project.vbproj.CoreCompileInputs.cache
+C:\Users\12488\source\repos\VB9e\Chap01\Jackets Solution\Jackets Project\obj\Debug\net6.0-windows\Jackets Project.dll
+C:\Users\12488\source\repos\VB9e\Chap01\Jackets Solution\Jackets Project\obj\Debug\net6.0-windows\refint\Jackets Project.dll
+C:\Users\12488\source\repos\VB9e\Chap01\Jackets Solution\Jackets Project\obj\Debug\net6.0-windows\Jackets Project.pdb
+C:\Users\12488\source\repos\VB9e\Chap01\Jackets Solution\Jackets Project\obj\Debug\net6.0-windows\Jackets Project.genruntimeconfig.cache
+C:\Users\12488\source\repos\VB9e\Chap01\Jackets Solution\Jackets Project\obj\Debug\net6.0-windows\ref\Jackets Project.dll
