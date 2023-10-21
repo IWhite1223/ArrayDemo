@@ -10,7 +10,7 @@ namespace ArrayDemo1
     {
         static void Main(string[] args)
         {
-            int[] number = { 2, 4, 6, 8, 10, 12, 14, 16, 18 };
+            int[] number = { 2, 4, 6, 8, 10, 12, 14, 16, 18, 20 };
             int option = 1;
             int position;
 
@@ -28,24 +28,19 @@ namespace ArrayDemo1
                 {
                    case 1:
 
-                        for (int i = 0; i < 18; i++)
+                        for (int i = 0; i < 20; i++)
                             Console.WriteLine("{0} ", number[i]);
                         Console.WriteLine();
                         break;
                     
                     case 2:
 
-                        for (int i = 18 ; i <= 0; i--)
+                        for (int i = 20 ; i <= 0; i--)
                             Console.WriteLine("{0} ", number[i]);
                         Console.WriteLine();
                         break;
 
                     case 3:
-
-                        Console.WriteLine("Enter position (1..10): ");
-                        position = Convert.ToInt32(Console.ReadLine());
-                        Console.Write("{0} ", number[position - 1]);
-
                         Console.Write("Enter position (1..10): ");
                         position = Convert.ToInt32(Console.ReadLine());
                         Console.Write("{0} ", number[position - 1]);
